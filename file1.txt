@@ -1,2 +1,4 @@
 This file is very diff from what I had before
 Change at the sametime WindowsUser
+That means I needed to roleback and the make my change
+and commit or use another branch
